@@ -25,11 +25,13 @@ What did you learn?
 ## Installation
 Node needs to be installed.
 ## Usage
-![readmegen.jpg](assets/$readmegen.jpg?raw=true)
+![readmegen.jpg](assets/$readmegen.jpg?raw=true) <br>
+### Demo
+[<img src="https://img.youtube.com/vi/F15aZXYdm6Q/maxresdefault.jpg" width="50%">](https://youtu.be/F15aZXYdm6Q)
 ## License
 MIT (Free use with preservation of copyright/license notices)
 ## Contributing
-This project is complete. Not contributions necessary.
+This project is complete. No contributions necessary.
 ## Tests
 Entering information to create a readme and checking the output.
 ## Questions
