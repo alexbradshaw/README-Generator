@@ -53,7 +53,7 @@ inq
             type: 'input',
             message: 'What are the steps to contribute?',
             name: 'contributing',
-            default: 'This project is complete. Not contributions necessary.'
+            default: 'This project is complete. No contributions necessary.'
         },
         {
             type: 'input',
