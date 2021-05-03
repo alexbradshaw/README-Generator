@@ -24,7 +24,7 @@ What did you learn?
 ## Installation
 No steps necessary, this is a browser based app.
 ## Usage
-![screenshot.png](assets/$screenshot.jpg?raw=true)
+![screenshot.png](assets/screenshot.jpg?raw=true)
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Contributing
