@@ -25,7 +25,7 @@ What did you learn?
 ## Installation
 Node needs to be installed.
 ## Usage
-![readmegen.jpg](assets/$readmegen.jpg?raw=true) <br>
+![readmegen.jpg](assets/readmegen.jpg?raw=true) <br>
 ### Demo
 [<img src="https://img.youtube.com/vi/F15aZXYdm6Q/maxresdefault.jpg" width="50%">](https://youtu.be/F15aZXYdm6Q)
 ## License
