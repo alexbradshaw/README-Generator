@@ -26,6 +26,7 @@ What did you learn?
 Node needs to be installed.
 ## Usage
 ![readmegen.jpg](assets/$readmegen.jpg?raw=true)
+![demo video](demo final.mp4?raw=true)
 ## License
 MIT (Free use with preservation of copyright/license notices)
 ## Contributing
