@@ -77,18 +77,18 @@ inq
         const GNU = '[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)'
         const Unlicense = '[![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)'
         let coolLicense = res.license.split(' ')
+        console.log(coolLicense);
         if (coolLicense[0] == 'MIT') {
-            var currentLicense = MIT[0]
+            var currentLicense = MIT;
         } else if (coolLicense[0] == 'GNU') {
-            var currentLicense = GNU[0]
+            var currentLicense = GNU;
         } else {
-            var currentLicense = Unlicense[0]
+            var currentLicense = Unlicense;
         }
-
         fs.writeFile('README.md',
             `
 # ${res.projName}
-${currentLicense[0]}
+${currentLicense}
 ## Description
 What was your motivation? 
 - ${res.projMotiv}
@@ -114,7 +114,7 @@ ${res.projInst}
 ## Usage
 ![${res.projPic}](assets/$${res.projPic}?raw=true)
 ## License
-${currentLicense[1]}
+${currentLicense}
 ## Contributing
 ${res.contributing}
 ## Tests
@@ -122,5 +122,7 @@ ${res.tests}
 ## Questions
 [Github: ${res.ghub}](https://github.com/${res.ghub}) <br>
 [Email](mailto:${res.email})
-`)
-    }, err => console.error(err))
+`, err => console.log(err))
+    })
+
+    .catch(err => console.error(err))

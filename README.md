@@ -1,19 +1,18 @@
 
-# README Generator
+# 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Description
 What was your motivation? 
-- I hate wasting time having to type up a README
+- 
 
 Why did you build this project?
-- To save me time. I no longer have to create a readme from scratch
+- 
 
 What problem does it solve?  
-- Me creating a new README from scratch
+- 
 
 What did you learn?
-- Inquirer has really bad documentation 
-- Markdown is simple
+- 
 
 ## Table of Contents
 - [Installation](#installation)
@@ -23,15 +22,15 @@ What did you learn?
 - [Tests](#tests)
 - [Questions](#questions)
 ## Installation
-Node needs to be installed.
+npm install
 ## Usage
-![readmegen.jpg](assets/$readmegen.jpg?raw=true)
+![](assets/$?raw=true)
 ## License
-MIT (Free use with preservation of copyright/license notices)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Contributing
 This project is complete. Not contributions necessary.
 ## Tests
-Entering information to create a readme and checking the output.
+N/A
 ## Questions
-[Github: alexbradshaw](https://github.com/alexbradshaw) <br>
-[Email](mailto:alexanderbradshaw5@gmail.com)
+[Github: ](https://github.com/) <br>
+[Email](mailto:)
