@@ -112,7 +112,7 @@ What did you learn?
 ## Installation
 ${res.projInst}
 ## Usage
-![${res.projPic}](assets/$${res.projPic}?raw=true)
+![${res.projPic}](assets/${res.projPic}?raw=true)
 ## License
 ${currentLicense}
 ## Contributing
