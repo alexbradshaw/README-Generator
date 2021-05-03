@@ -27,7 +27,7 @@ Node needs to be installed.
 ## Usage
 ![readmegen.jpg](assets/readmegen.jpg?raw=true) <br>
 ### Demo
-[<img src="https://img.youtube.com/vi/F15aZXYdm6Q/maxresdefault.jpg" width="50%">](https://youtu.be/F15aZXYdm6Q)
+[<img src="https://img.youtube.com/vi/F15aZXYdm6Q/maxresdefault.jpg" width="50%" target='_blank'>](https://youtu.be/F15aZXYdm6Q)
 ## License
 MIT (Free use with preservation of copyright/license notices)
 ## Contributing
