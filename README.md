@@ -29,7 +29,7 @@ Node needs to be installed.
 ## License
 MIT (Free use with preservation of copyright/license notices)
 ## Contributing
-This project is complete. Not contributions necessary.
+This project is complete. No contributions necessary.
 ## Tests
 Entering information to create a readme and checking the output.
 ## Questions
